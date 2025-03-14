@@ -1,16 +1,5 @@
-Instructions Exercice
+Processus de création d'algoo pour déterminer le ombre de caratère
 
-    La longueur de la phrase (le nombre de caractères).
-    Le nombre de mots dans la phrase (en supposant que les mots sont séparés par un seul espace).
-    Le nombre de voyelles dans la phrase.
-
-Vous devez garder à l'esprit que: 
-
-    Chaque caractère sera traité séparément.
-    Le dernier caractère est le point.
-    Utiliser trois variables comme compteurs.
-
-Processus de création d'algo:
 Etape N°1 : Déclaration de variable de compteur 
 
 longueur : détermine le nombre total de caractères.
